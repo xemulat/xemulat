@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=xemulat)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xemulat&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xemulat&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xemulat&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/927441405079588914?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/927441405079588914)
