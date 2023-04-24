@@ -49,3 +49,9 @@ body {
     background: #111;
     cursor: progress;
 }
+
+background-color: rgb(251, 207, 40);
+background-image: linear-gradient(314deg, rgba(36, 80, 191, 1) 58%, rgba(0, 0, 255, 1) 100%),  url(https://img.icons8.com/android/2x/happy.png);
+background-size: auto;
+background-position: left top;
+background-repeat: repeat;
