@@ -1,3 +1,5 @@
 {
-  "cleanUrls": true
+  "redirects": [
+    { "source": "/rv", "destination": "https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-19-35-release/youtube-18-19-35-android-apk-download/", "statusCode": 301 }
+  ]
 }
