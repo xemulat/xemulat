@@ -2,7 +2,7 @@
 
 💰 Donate Here: [click](https://www.rentry.co/HowToSupportXem)
 
-💻 Site - [xemu.tk](https://xemu.tk)
+💻 Site - [xem.lol](https://xem.lol)
 
 ![](https://komarev.com/ghpvc/?username=xemulat)
 
