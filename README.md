@@ -4,6 +4,8 @@
 
 💻 Site - [xem.lol](https://xem.lol)
 
+My discord was termed, new is at `@not.xem`
+
 ![](https://komarev.com/ghpvc/?username=xemulat)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xemulat&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
