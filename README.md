@@ -4,7 +4,7 @@
 
 💻 Site - [xem.lol](https://xem.lol)
 
-My discord was termed, new is at `@not.xem`
+My discord was termed, new is at `@xemu.lated`
 
 ![](https://komarev.com/ghpvc/?username=xemulat)
 
