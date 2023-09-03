@@ -1,8 +1,7 @@
 {
   "redirects": [
-    { "source": "/rv", "destination": "https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-19-35-release/youtube-18-19-35-android-apk-download/", "statusCode": 301 },
-    { "source": "/sr", "destination": "https://www.apkmirror.com/apk/red-apps-ltd/sync-for-reddit/sync-for-reddit-v23-05-03-1718-release/sync-for-reddit-v23-05-03-1718-2-android-apk-download/", "statusCode": 301 },
-    { "source": "/revancedapks", "destination": "https://www.youtube.com/watch?v=uHgt8giw1LY", "statusCode": 301 }
+    { "source": "/rv", "destination": "https://rvncd.cfd", "statusCode": 301 },
+    { "source": "/dc", "destination": "https://discord.gg/rwZtqj6HqZ", "statusCode": 301 }
     
   ]
 }
