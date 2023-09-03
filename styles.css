@@ -1,57 +1,15 @@
 html {
-    --scrollbarBG: #1B1D1E;
-    --thumbBG: #000000;
-}
-
-body::-webkit-scrollbar {
-    width: 11px;
+    --scrollbarBG: #1a1a1a;
+    --thumbBG: #1a1a1a;
 }
 
 body {
-    scrollbar-width: thin;
-    scrollbar-color: var(--thumbBG) var(--scrollbarBG);
+  min-height: 100vh;
+  background: #1a1a1a;
 }
 
-body::-webkit-scrollbar-track {
-    background: var(--scrollbarBG);
+.title,
+.h1,
+.subtitle {
+  color: hsl(0, 0%, 71%);
 }
-
-body::-webkit-scrollbar-thumb {
-    background-color: var(--thumbBG);
-    border-radius: 6px;
-    border: 3px solid var(--scrollbarBG);
-}
-
-div {
-    margin-top: 1.75px;
-    margin-bottom: 1.75px;
-}
-
-.center-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-}
-
-.clearfix::after {
-    content: "";
-    clear: both;
-    display: table;
-}
-
-.center-container img {
-    max-width: 100px;
-}
-
-body {
-    min-height: 100vh;
-    background: #111;
-    cursor: progress;
-}
-
-background-color: rgb(251, 207, 40);
-background-image: linear-gradient(314deg, rgba(36, 80, 191, 1) 58%, rgba(0, 0, 255, 1) 100%),  url(https://img.icons8.com/android/2x/happy.png);
-background-size: auto;
-background-position: left top;
-background-repeat: repeat;
