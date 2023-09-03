@@ -13,3 +13,19 @@ body {
 .subtitle {
   color: hsl(0, 0%, 71%);
 }
+
+.section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  text-align: center;
+}
+
+/* Add some padding to the buttons */
+.button {
+  padding: 10px 20px; /* You can adjust the values as needed */
+  margin: 5px; /* Optional: Add some space around the buttons */
+}
