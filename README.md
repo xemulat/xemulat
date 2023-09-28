@@ -1,4 +1,4 @@
-🐸 Full-Stack developer (finally!)
+🐸 Full-Stack developer
 
 💰 Donate Here: [click](https://www.rentry.co/HowToSupportXem)
 
